@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="dateInformation">Sun Feb 27 09:00 PM, 2023</string>
+    <string name="tempInformation">75F</string>
+    <string name="uvIndexInformation">UV Index: 2</string>
+    <string name="morningInformation">Morning</string>
+    <string name="afternoonInformation">Afternoon</string>
+    <string name="eveningInformation">Evening</string>
+    <string name="nightInformation">Night</string>
+    <string name="sunsetInformation">Sunset</string>
+    <string name="sunriseInformation">Sunrise</string>
+    <string name="visibilityInformation">Visibility: 2</string>
+    <string name="humidityInformation">Humidity: 10%</string>
+    <string name="morning1Information">78F</string>
+    <string name="sun_Information">Sunday</string>
+    <string name="weatherWind">Winds: E at 8 mph gusting to 5 mph</string>
+    <string name="weatherPartially">Partially Cloudy(16%clouds)</string>
+    <string name="WindFeelsLike">Feels like 70F</string>
+    <string name="convert">75F/65F</string>
+    <string name="convert_precp">(100% precp)</string>
+    <string name="no_internet">No internet connection</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Civil Advocacy </string>
+    <string name="copyrights_aman">© 2023, Aman Rangapur</string>
+    <string name="api_info"><u>Google Civic Information API</u></string>
+</resources>

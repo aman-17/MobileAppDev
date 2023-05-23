@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="navigator_drawer">Open navigation drawer</string>
+    <string name="navigator_drawer_close">Close navigation drawer</string>
+</resources>
