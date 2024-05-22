@@ -1,4 +1,4 @@
-# Mobile App Development Repository
+# Mobile App Development
 
 This repository contains a collection of five mobile applications developed using various technologies and frameworks. Each app serves a different purpose and showcases different features. Below is a brief overview of each application:
 
